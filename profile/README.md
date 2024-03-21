@@ -1,12 +1,17 @@
-## Hi there 👋
+# 영등포구 코테 스터디 👋
 
-<!--
+## 🔥 스터디 목표
+- 잔디 채우기 🍀
+- 취업 / 이직 코딩테스트 대비 📒
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ✏️ 스터디 진행 방식
+- 매주 수요일 8시 영등포구청역 부근에서 코드 리뷰 및 풀이 설명하기 (약 2시간 소요)
+- 일주일 단위로 알고리즘 3문제 화요일 오전까지 풀고 깃허브에 push
+  - 백준 2문제(유형 선택) + 프로그래머스 1문제(랜덤 유형)
+## 📍 기간 및 가격
+- 2024.3.20 ~
+- 보증금 2만원 🤑
+## 🔎 커리큘럼
+| 주차 | 백준                                                                        | 프로그래머스                                                                    |
+| ---- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1    | [창고 다각형(스택)](https://www.acmicpc.net/problem/2304), [단어 뒤집기2(문자열)](https://www.acmicpc.net/problem/17413)                                                    | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                           |
