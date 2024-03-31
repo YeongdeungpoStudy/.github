@@ -15,3 +15,4 @@
 | 주차 | 백준                                                                        | 프로그래머스                                                                    |
 | ---- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 1    | [창고 다각형(스택)](https://www.acmicpc.net/problem/2304), [단어 뒤집기2(문자열)](https://www.acmicpc.net/problem/17413)                                                    | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                                           |
+| 2    | [파이프 옮기기1](https://www.acmicpc.net/problem/17070), [촌수계산](https://www.acmicpc.net/problem/2644)                                                    | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                                           |
